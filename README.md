@@ -1,5 +1,3 @@
-# Nirmal-GitHub-practice
-i am doing this for practice
-<br>
-i am a nirmal goswami
-hello
+boiler_input = pd.read_csv("boilerinput.csv")
+boiler_output = pd.read_csv("boileroutput.csv")
+coaldf = pd.read_csv("coaldf.csv")
